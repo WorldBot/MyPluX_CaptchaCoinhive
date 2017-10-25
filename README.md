@@ -6,3 +6,6 @@ Coinhive Proof of Work Captcha Plugin for PluXml CMS
 * [Coinhive](https://coinhive.com/) - JavaScript miner for the Monero Blockchain
 * [MyMonero](https://mymonero.com/) - Monero Web Wallet
 
+![Login/Comments](https://i.imgur.com/iq4Jxmp.jpg)
+
+![Plugin Admin](https://i.imgur.com/Rj6HuMy.jpg)
